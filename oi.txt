@@ -1,1 +1,1 @@
-Oi
+git remote add origin https://github.com/PinheiroDiego/testeaula17.git
